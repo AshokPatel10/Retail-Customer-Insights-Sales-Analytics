@@ -11,7 +11,23 @@ The project includes:
 - Customer segmentation and sales trend analysis
 - Business recommendations based on analytical insights
 
+## Tools & Technologies
+- Python (Pandas, NumPy)
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- Jupyter Notebook
 
+## Dataset Summary
+- Records: 3,900 customer transactions
+- Features: 18 columns
+- Includes:
+  - Customer demographics
+  - Purchase behavior
+  - Product categories
+  - Discounts & subscriptions
+  - Review ratings & shipping types
 
 
 
