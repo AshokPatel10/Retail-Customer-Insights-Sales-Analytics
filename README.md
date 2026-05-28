@@ -77,7 +77,17 @@ The project includes:
 ### Advanced Business Insights Dashboard
 <img width="1310" height="735" alt="advanced_business_insights" src="https://github.com/user-attachments/assets/121db0d2-157f-4b3b-86de-43375755eed3" />
 
+## Repository Structure
+├── Jupyter Notebook/
+├── SQL Queries/
+├── Dashboard/
+├── Screenshots/
+├── Presentation/
+└── README.md
 
-
-
-
+## Business Recommendations
+- Boost Subscriptions – Promote exclusive benefits for subscribers.
+- Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.
+- Review Discount Policy – Balance sales boosts with margin control.
+- Product Positioning – Highlight top-rated and best-selling products in campaigns.
+- Targeted Marketing – Focus efforts on high-revenue age groups and express shipping users. 
