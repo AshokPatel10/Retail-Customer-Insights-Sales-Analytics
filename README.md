@@ -78,12 +78,12 @@ The project includes:
 <img width="1310" height="735" alt="advanced_business_insights" src="https://github.com/user-attachments/assets/121db0d2-157f-4b3b-86de-43375755eed3" />
 
 ## Repository Structure
-```├── Jupyter Notebook/```
-```├── SQL Queries/```
-```├── Dashboard/```
-```├── Screenshots/```
-```├── Presentation/```
-```└── README.md```
+```├── Jupyter Notebook/
+├── SQL Queries/
+├── Dashboard/
+├── Screenshots/
+├── Presentation/
+└── README.md```
 
 ## Business Recommendations
 - Boost Subscriptions – Promote exclusive benefits for subscribers.
