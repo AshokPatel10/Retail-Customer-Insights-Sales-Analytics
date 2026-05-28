@@ -31,4 +31,53 @@ The project includes:
   - Discounts & subscriptions
   - Review ratings & shipping types
 
+# Project Workflow
+## Python Analysis
+- data cleaning
+- missing value handling
+- feature engineering
+- PostgreSQL integration
+
+## SQL Business Analysis
+- revenue analysis
+- customer segmentation
+- subscription insights
+- discount dependency
+- top products
+
+## Power BI Dashboard
+- interactive multi-page dashboard
+- slicers
+- KPI tracking
+- customer insights
+
+## Dashboard Pages
+- 1. Sales Overview
+  2. Customer Insights
+  3. Product & Sales Analysis
+  4. Advanced Business Insights
+
+## Key Business Insights
+- Subscribers contribute higher average revenue.
+- Loyal customers show stronger repeat purchasing behavior.
+- Certain products heavily rely on discounts for sales.
+- High-spending customers tend to prefer express shipping.
+- Seasonal sales trends reveal category-specific demand patterns.
+
+## Screenshots
+### Sales Overview Dashboard
+<img width="1296" height="741" alt="sales_overview" src="https://github.com/user-attachments/assets/a3e59302-7e6e-463c-aac5-c07fefe169d5" />
+
+### Customer Insights Dashboard
+<img width="1312" height="733" alt="customer_insights" src="https://github.com/user-attachments/assets/f88d0077-0805-4d8b-b79b-db67a6bcfd0f" />
+
+### Product & Sales Analysis Dashboard
+<img width="1311" height="740" alt="product_sales_analysis" src="https://github.com/user-attachments/assets/ced471b8-3a3e-4d09-97a2-545c7f548107" />
+
+### Advanced Business Insights Dashboard
+<img width="1310" height="735" alt="advanced_business_insights" src="https://github.com/user-attachments/assets/121db0d2-157f-4b3b-86de-43375755eed3" />
+
+
+
+
 
