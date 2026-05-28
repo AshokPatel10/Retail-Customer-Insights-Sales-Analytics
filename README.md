@@ -20,6 +20,8 @@ The project includes:
 - Jupyter Notebook
 
 ## Dataset Summary
+- The dataset used in this project is available publicly on Kaggle:
+https://www.kaggle.com/datasets/ayeshasiddiqa123/customer-shopping-behavior-dataset
 - Records: 3,900 customer transactions
 - Features: 18 columns
 - Includes:
@@ -28,7 +30,5 @@ The project includes:
   - Product categories
   - Discounts & subscriptions
   - Review ratings & shipping types
-The dataset used in this project is available publicly on Kaggle:
-https://www.kaggle.com/datasets/ayeshasiddiqa123/customer-shopping-behavior-dataset
 
 
