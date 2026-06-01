@@ -94,6 +94,6 @@ The project includes:
 - Product Positioning – Highlight top-rated and best-selling products in campaigns.
 - Targeted Marketing – Focus efforts on high-revenue age groups and express shipping users.
 
-#Author
-##Ashok Patel
-Data Analytics Portfolio Project
+# Author
+## Ashok Patel
+### Data Analytics Portfolio Project
