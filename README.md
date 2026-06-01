@@ -52,7 +52,7 @@ The project includes:
 - customer insights
 
 ## Dashboard Pages
-- 1. Sales Overview
+  1. Sales Overview
   2. Customer Insights
   3. Product & Sales Analysis
   4. Advanced Business Insights
